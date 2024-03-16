@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1000418691417",
+    "project_id": "smart-shop-b12b0",
+    "storage_bucket": "smart-shop-b12b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000418691417:android:a916a35badcc6951b0a448",
+        "android_client_info": {
+          "package_name": "com.example.smart_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000418691417-7528l90m4c8t1u5elh37h58nsoekbbv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_shop",
+            "certificate_hash": "15271198d4a2178e5504ee22caa455b4f5141490"
+          }
+        },
+        {
+          "client_id": "1000418691417-vk1av2vuu9uimtrg4qimtkkpq72g1u15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlJPUF_sUuOdAeuXbetDqFxqz4KKy4I_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000418691417-vk1av2vuu9uimtrg4qimtkkpq72g1u15.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1000418691417-9peees186qmukoit14j3u775g3vik7ig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartShop.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000418691417:android:9239b60938d974f1b0a448",
+        "android_client_info": {
+          "package_name": "com.example.smart_shop_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000418691417-vk1av2vuu9uimtrg4qimtkkpq72g1u15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlJPUF_sUuOdAeuXbetDqFxqz4KKy4I_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000418691417-vk1av2vuu9uimtrg4qimtkkpq72g1u15.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1000418691417-9peees186qmukoit14j3u775g3vik7ig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartShop.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
